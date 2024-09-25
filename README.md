@@ -18,10 +18,13 @@ This is a simple network sniffer tool implemented in Python using the `scapy` li
    ```bash
    git clone https://github.com/yourusername/network-sniffer.git
    cd network-sniffer
-## Install Required Library
+2. **Install Required Library**:
  ```bash
    pip install scapy
-## Usage
+
+
+
+
 
 
    
