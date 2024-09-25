@@ -24,12 +24,12 @@ This is a simple network sniffer tool implemented in Python using the `scapy` li
 ## Usage
 
 1. **Run the Script**: Execute the script with elevated permissions (important for capturing packets):
- ``` bash
-sudo python network_sniffer.py  # On Linux/Mac
+  ``` bash
+  sudo python network_sniffer.py  # On Linux/Mac
 
-For Windows, run the Command Prompt as Administrator:
- ``` bash
-python network_sniffer.py
+  For Windows, run the Command Prompt as Administrator:
+  ``` bash
+  python network_sniffer.py
 
 2.**Output**: The script will start capturing packets and printing a summary for each packet. Press Ctrl+C to stop the sniffer.
 
