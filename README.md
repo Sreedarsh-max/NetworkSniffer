@@ -18,6 +18,6 @@ This is a simple network sniffer tool implemented in Python using the `scapy` li
    ```bash
    git clone https://github.com/yourusername/network-sniffer.git
    cd network-sniffer
-2. Install Required Library
+## Install Required Library
    pip install scapy
 
