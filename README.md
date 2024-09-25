@@ -20,8 +20,8 @@ This is a simple network sniffer tool implemented in Python using the `scapy` li
    cd network-sniffer
 ## Install Required Library
  ```bash
-   git clone https://github.com/yourusername/network-sniffer.git
-   cd network-sniffer
    pip install scapy
+## Usage
+
 
    
