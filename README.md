@@ -32,6 +32,14 @@ This is a simple network sniffer tool implemented in Python using the `scapy` li
 
   ```bash
   python network_sniffer.py
+  ```
+2.**Output**: The script will start capturing packets and printing a summary for each packet. Press Ctrl+C to stop the sniffer.
+## Example Output
+yaml
+Starting network sniffer... Press Ctrl+C to stop.
+[+] Packet captured: IP 192.168.1.1 > 192.168.1.2: ICMP echo request ...
+[+] Packet captured: TCP 192.168.1.2:443 > 192.168.1.1:  ...
+
 
 
 
